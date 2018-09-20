@@ -1,0 +1,24 @@
+[debug] [2018-09-10T16:06:18.038Z] ----------------------------------------------------------------------
+[debug] [2018-09-10T16:06:18.042Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\AnhDuc\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-09-10T16:06:18.042Z] CLI Version:   4.2.1
+[debug] [2018-09-10T16:06:18.042Z] Platform:      win32
+[debug] [2018-09-10T16:06:18.042Z] Node Version:  v8.11.3
+[debug] [2018-09-10T16:06:18.042Z] Time:          Mon Sep 10 2018 23:06:18 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-09-10T16:06:18.042Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-09-10T16:06:18.052Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-09-10T16:06:18.052Z] > authorizing via signed-in user
+[debug] [2018-09-10T16:06:18.055Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/origin-e4fca  
+ 
+[debug] [2018-09-10T16:06:19.029Z] <<< HTTP RESPONSE 200
+[debug] [2018-09-10T16:06:19.032Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/origin-e4fca  
+ 
+[debug] [2018-09-10T16:06:20.200Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'F:\desstop\greenorganic_dev'...
+[info] 
+[debug] [2018-09-10T16:06:20.212Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/696148137297/clients/_:getWebAppConfig  
+ 
+[debug] [2018-09-10T16:06:20.744Z] <<< HTTP RESPONSE 200
+[info] i  hosting[origin-e4fca]: Serving hosting files from: public
+[info] +  hosting[origin-e4fca]: Local server: http://localhost:5000
